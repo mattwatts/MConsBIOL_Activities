@@ -1,0 +1,146 @@
+        Marxan v 2.43 
+
+   Marine Reserve Design via Annealing
+
+   Coded by Ian Ball, modified by Matthew Watts
+   Written by Ian Ball and Hugh Possingham
+
+ian.ball@aad.gov.au
+h.possingham@uq.edu.au
+m.watts@uq.edu.au
+
+   Marxan website
+
+http://www.uq.edu.au/marxan
+
+
+Entering in the data files 
+   There are 0 Planning units.
+  695416576 Planning Unit names read in 
+  690079632 species read in 
+  690079640 connections entered 
+0 conservation values counted, 695416576 big matrix size, 0% density of matrix 
+0 conservation values counted, 695416576 big matrix size, 0% density of matrix 
+Time passed so far is 0 secs 
+
+Pre-processing Section. 
+690079640 species are already adequately represented.
+
+Run 0   Using Calculated Tinit = 0.0000 Tcool = 0.00000000 
+  Creating the initial reserve 
+
+  Init:Value 0.0 Cost 0.0 PUs 0 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 31056651340.8 MPM 0.0
+
+  ThermalAnnealing:Value 0.0 Cost 305.7 PUs -1 Connection 7124372.4 Missing 27021412 Shortfall 0.00 Penalty 3490223994.3 MPM 0.0
+
+  Iterative Improvement:Value 0.0 Cost 0.0 PUs -1 Connection 7124372.4 Missing 27021412 Shortfall 0.00 Penalty 3490223994.3 MPM 0.0
+
+  Best:Value 0.0 Cost 3497347072.0 PUs -1 Connection 7124372.4 Missing 27016820 Shortfall 0.00 Penalty 3490223994.3 MPM 0.0
+
+Time passed so far is 0 secs 
+
+Run 0   Using Calculated Tinit = 0.0000 Tcool = 0.00000000 
+  Creating the initial reserve 
+
+  Init:Value 0.0 Cost 0.0 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 33508300893.9 MPM 0.0
+
+  ThermalAnnealing:Value 0.0 Cost 305.7 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 3575916496.8 MPM 0.0
+
+  Iterative Improvement:Value 0.0 Cost 0.0 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 3575916496.8 MPM 0.0
+
+Time passed so far is 0 secs 
+
+Run 0   Using Calculated Tinit = 0.0000 Tcool = 0.00000000 
+  Creating the initial reserve 
+
+  Init:Value 0.0 Cost 0.0 PUs 0 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 32779139638.2 MPM 0.0
+
+  ThermalAnnealing:Value 0.0 Cost 305.7 PUs -1 Connection 21784772.7 Missing 27021412 Shortfall 0.00 Penalty 3666475446.4 MPM 0.0
+
+  Iterative Improvement:Value 0.0 Cost 0.0 PUs -1 Connection 21784772.7 Missing 27021412 Shortfall 0.00 Penalty 3666475446.4 MPM 0.0
+
+Time passed so far is 1 secs 
+
+Run 0   Using Calculated Tinit = 0.0000 Tcool = 0.00000000 
+  Creating the initial reserve 
+
+  Init:Value 0.0 Cost 0.0 PUs 0 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 33836873500.5 MPM 0.0
+
+  ThermalAnnealing:Value 0.0 Cost 305.7 PUs -1 Connection 9832851.3 Missing 27021412 Shortfall 0.00 Penalty 3493246933.5 MPM 0.0
+
+  Iterative Improvement:Value 0.0 Cost 0.0 PUs -1 Connection 9832851.3 Missing 27021412 Shortfall 0.00 Penalty 3493246933.5 MPM 0.0
+
+Time passed so far is 1 secs 
+
+Run 0   Using Calculated Tinit = 0.0000 Tcool = 0.00000000 
+  Creating the initial reserve 
+
+  Init:Value 0.0 Cost 0.0 PUs 0 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 32889821133.0 MPM 0.0
+
+  ThermalAnnealing:Value 0.0 Cost 305.7 PUs -1 Connection 1422100.7 Missing 27021412 Shortfall 0.00 Penalty 3355648483.6 MPM 0.0
+
+  Iterative Improvement:Value 0.0 Cost 0.0 PUs -1 Connection 1422100.7 Missing 27021412 Shortfall 0.00 Penalty 3355648483.6 MPM 0.0
+
+  Best:Value 0.0 Cost 3357070584.3 PUs -1 Connection 1422100.7 Missing 27016820 Shortfall 138624.19 Penalty 3355648483.6 MPM 0.0
+
+Time passed so far is 1 secs 
+
+Run 0   Using Calculated Tinit = 0.0000 Tcool = 0.00000000 
+  Creating the initial reserve 
+
+  Init:Value 0.0 Cost 0.0 PUs 0 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 31627547959.6 MPM 0.0
+
+  ThermalAnnealing:Value 0.0 Cost 305.7 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 3571146766.8 MPM 0.0
+
+  Iterative Improvement:Value 0.0 Cost 0.0 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 3571146766.8 MPM 0.0
+
+Time passed so far is 2 secs 
+
+Run 0   Using Calculated Tinit = 0.0000 Tcool = 0.00000000 
+  Creating the initial reserve 
+
+  Init:Value 0.0 Cost 0.0 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 32684637654.4 MPM 0.0
+
+  ThermalAnnealing:Value 0.0 Cost 305.7 PUs -1 Connection 12887025.7 Missing 27021412 Shortfall 0.00 Penalty 3459478867.3 MPM 0.0
+
+  Iterative Improvement:Value 0.0 Cost 0.0 PUs -1 Connection 12887025.7 Missing 27021412 Shortfall 0.00 Penalty 3459478867.3 MPM 0.0
+
+Time passed so far is 2 secs 
+
+Run 0   Using Calculated Tinit = 0.0000 Tcool = 0.00000000 
+  Creating the initial reserve 
+
+  Init:Value 0.0 Cost 0.0 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 32655557877.9 MPM 0.0
+
+  ThermalAnnealing:Value 0.0 Cost 305.7 PUs -1 Connection 4333005.8 Missing 27021412 Shortfall 0.00 Penalty 3563757686.4 MPM 0.0
+
+  Iterative Improvement:Value 0.0 Cost 0.0 PUs -1 Connection 4333005.8 Missing 27021412 Shortfall 0.00 Penalty 3563757686.4 MPM 0.0
+
+Time passed so far is 2 secs 
+
+Run 0   Using Calculated Tinit = 0.0000 Tcool = 0.00000000 
+  Creating the initial reserve 
+
+  Init:Value 0.0 Cost 0.0 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 34235575694.7 MPM 0.0
+
+  ThermalAnnealing:Value 0.0 Cost 305.7 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 3635348853.3 MPM 0.0
+
+  Iterative Improvement:Value 0.0 Cost 0.0 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 3635348853.3 MPM 0.0
+
+Time passed so far is 3 secs 
+
+Run 0   Using Calculated Tinit = 0.0000 Tcool = 0.00000000 
+  Creating the initial reserve 
+
+  Init:Value 0.0 Cost 0.0 PUs -1 Connection 0.0 Missing 27021412 Shortfall 0.00 Penalty 33538132010.4 MPM 0.0
+
+  ThermalAnnealing:Value 0.0 Cost 305.7 PUs -1 Connection 10886204.6 Missing 27021412 Shortfall 0.00 Penalty 3642413054.8 MPM 0.0
+
+  Iterative Improvement:Value 0.0 Cost 0.0 PUs -1 Connection 10886204.6 Missing 27021412 Shortfall 0.00 Penalty 3642413054.8 MPM 0.0
+
+Time passed so far is 3 secs 
+
+Best solution is run 690079640
+Time passed so far is 3 secs 
+
+              The End 
